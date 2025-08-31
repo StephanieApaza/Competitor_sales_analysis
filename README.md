@@ -1,4 +1,4 @@
-# Competitor Sales Analysis - Manufacturing Industry
+# Competitor Sales Analysis - Manufacturing Industry (Power BI)
 This project involves a data analysis of a manufacturing industry, with a special focus on the company Sintec. Sales, product, segment, and geographic data were analyzed, using **Power BI Desktop** for data cleaning, modeling, and visualization.
 
 ## 🎯Objetives
